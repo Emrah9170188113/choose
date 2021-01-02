@@ -1,0 +1,46 @@
+ 8600éTÜRKÝYE ÝÞ BANKASI / MALATYA       ( 20/12/2020 - 31/12/2020 TARÝHLERÝ ARASI 8600 - 4016242 NUMARALI HESABIN YATIRIM ÖZETÝ)
+                                                                                                                 02/01/2021  18:24:47
+ BÜYÜK MÜKELLEFLER V.D.BÞK. SÝCÝL NO : 4810058590                                                                          SAYFA :  1
+                                                       YATIRIM HESABI PORTFOYÜ
+ ------------------------------------------------------------------------------------------------------------------------------------
+ Müþteri Adý: EMRAH ÜNSALAN                                                                                    Hesap No: 8600 4016242
+ Adresi: EV ADRESÝ                                                                                      TC KIMLIK NO   : 21170423550
+         (Varsa adres deðiþikliklerinin þubemize bildirilmesi rica olunur).
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TL  MEVCUDU
+ ----------------------------------------------------------------------------------------------------------------------------------
+ Toplam TL  Mevcudu   :                  0.00  Bloke Tutarý:                  0.00 Kullanýlabilir TL  Tutari:                  0.00
+ Toplam Portföy Deðeri:                  0.00  USD(ÝÞ.DA):                    0.00  EURO (ÝÞ.DA)            :                  0.00
+ ----------------------------------------------------------------------------------------------------------------------------------
+ PORTFÖY DEÐERÝNE VARSA ÝÞ YATIRIM HESABINIZDAKÝ PAY/VARANTLAR ÝLE BU KIYMETLERE ÝLÝÞKÝN BRÜT TAKAS BORCUNUZ DAHÝLDÝR.
+ MALÝYET BÝLGÝ AMAÇLIDIR. VERGÝNÝZ FÝFO TABLOSUNDAKÝ MALÝYETLERÝNÝZ ÝLE HESAPLANMAKTADIR. TEÞEKKÜR EDERÝZ.
+ 8600éTÜRKÝYE ÝÞ BANKASI / MALATYA
+                                                                                                                 02/01/2021  18:24:47
+ BÜYÜK MÜKELLEFLER V.D.BÞK. SÝCÝL NO : 4810058590                                                                          SAYFA :  2
+                                                       YATIRIM HESABI EXTRESÝ
+                                              ( 20/12/2020 - 31/12/2020 TARÝHLERÝ ARASI )
+ ------------------------------------------------------------------------------------------------------------------------------------
+ Müþteri Adý: EMRAH ÜNSALAN                                                                                    Hesap No: 8600 4016242
+ Adresi: EV ADRESÝ                                                                                      TC KIMLIK NO   : 21170423550
+         (Varsa adres deðiþikliklerinin þubemize bildirilmesi rica olunur).
+ ------------------------------------------------------------------------------------------------------------------------------------
+
+ ÝÞLEM    ÞUBE FÝÞ NO  ÝÞL KYMT   FAÝZ ORANI  KIYMET            TL  TUTAR          TL  BAKÝYE /       AÇIKLAMA
+ TARÝHÝ                KOD ADI    BÝRÝM FÝAT  ADEDÝ                                KIYMET BAKÝYE
+ ======== ==== ======== == ====== =========== ================= ================== ================= ======================
+ 25/12/20 0205 36014610 QJ                  -                 -                  -             +0.00 YATIRIM HESABI EKSTRE
+                                                                                              +0.000 TERCÝHÝ DEÐÝÞTÝRÝLDÝ
+ 25/12/20 0205 36020215 QJ                  -                 -                  -             +0.00 YATIRIM HESABI EKSTRE
+                                                                                              +0.000 TERCÝHÝ DEÐÝÞTÝRÝLDÝ
+ 29/12/20 0205 36170752 QJ                  -                 -                  -             +0.00 YATIRIM HESABI EKSTRE
+                                                                                              +0.000 TERCÝHÝ DEÐÝÞTÝRÝLDÝ
+ 30/12/20 0205 36015228 QJ                  -                 -                  -             +0.00 YATIRIM HESABI EKSTRE
+                                                                                              +0.000 TERCÝHÝ DEÐÝÞTÝRÝLDÝ
+ 30/12/20 9991 99920202 UH REPO             -                 -                  -             +0.00 S REPO TLM GÝRÝÞ
+                                                                                              +0.000  7 GNLK EXP:31/12/202
+ 30/12/20 8600 36104244 FT 801              -                 -                  -             +0.00 HESAPTAN DÜZENLÝ ALIÞ
+                                                                                              +0.000 TALÝMATI VERME
+ 30/12/20 9991 99921047 UH REPO             -                 -                  -             +0.00 S REPO TLM ÝPTAL
+                                                                                              +0.000  7 GNLK EXP:31/12/202
+ 30/12/20 0165 81078107 FT 801              -                 -                  -             +0.00 HESAPTAN DÜZENLÝ ALIÞ
+                                                                                              +0.000 TALÝMATI GERÇEKLEÞMED
